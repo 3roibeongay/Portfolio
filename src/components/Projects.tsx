@@ -33,6 +33,7 @@ const PROJECTS_DATA: Project[] = [
     id: '6',
     title: 'Sử dụng AI có trách nhiệm trong học tập và nghiên cứu',
     description: 'Phát triển kỹ năng sử dụng AI có trách nhiệm và đạo đức trong học tập và nghiên cứu.',
+    href: 'https://drive.google.com/file/d/17QVQOUEZ_IsxMpW4qKx9Y_EdxW-DdwLR/view?usp=sharing',
   },
 ];
 
