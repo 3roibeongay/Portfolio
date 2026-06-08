@@ -14,8 +14,8 @@ const App: React.FC = () => {
       <main style={{ flexGrow: 1 }}>
         <Hero />
         <About />
-        <Projects />
         <Skills />
+        <Projects />
         <LearningDirection />
         <Conclusion />
       </main>
